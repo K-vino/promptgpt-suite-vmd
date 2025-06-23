@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+python-dotenv
+pandas # For potential data handling in analytics, library, etc.
+numpy # Often a dependency for pandas or other numerical operations.
